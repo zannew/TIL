@@ -2,7 +2,9 @@
 
 - Since 2022.08
 - Categories
-    - java
-    - spring
-    - database
-    - etc
+  - Java
+  - Spring
+  - Database
+  - ORM
+    - JPA
+  - etc
