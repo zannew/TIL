@@ -5,6 +5,7 @@
   - Java
   - Spring
   - Database
+  - DesignPatterns
   - ORM
     - JPA
   - etc
