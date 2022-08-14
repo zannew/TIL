@@ -23,7 +23,7 @@
         - java.io.InputStreamReader(InputStream)
         - java.io.OutputStreamWriter(OutputStream)
     - 스프링
-        - HandlerAdpter : 우리가 작성하는 다양한 형태의 핸들러 코드를 스프링 MVC가 실행할 수 있
+        - HandlerAdapter : 우리가 작성하는 다양한 형태의 핸들러 코드를 스프링 MVC가 실행할 수 있
           는 형태로 변환해주는 어댑터용 인터페이스.
         ****
 
