@@ -6,6 +6,10 @@
   - Spring
   - Database
   - DesignPatterns
+    - Behavioral 
+    - Creational
+    - Structural 
   - ORM
     - JPA
+  - Architecture
   - etc
