@@ -24,7 +24,7 @@ public class ExampleClass {
   2. 클래스의 정적 메서드를 사용할 때
   3. 클래스의 인스턴스를 생성할 때
 - `ExamplaClass.java` 로 여러 인스턴스를 생성하더라도 static 블럭은 한 번만 실행된다.
-- `[ExamplaClass.java](http://ExamplaClass.java)` 의 생성자를 호출하지 않더라도 클래스에 대한 참조가 발생하면 실행된다.
+- `ExamplaClass.java` 의 생성자를 호출하지 않더라도 클래스에 대한 참조가 발생하면 실행된다.
 - static 블럭은 작성된 순서를 따라서 실행된다.
   - static 블럭 내에서 또는 여러 static 블럭이 존재하더라도 작성된 순서를 따른다.
 - 클래스 변수의 초기화가 복잡한 경우 주로 사용된다.
